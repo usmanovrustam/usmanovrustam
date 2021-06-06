@@ -40,7 +40,7 @@
 [![Top Langs](https://github-readme-stats.avieira.vercel.app/api/top-langs/?username=rustamusmanov&hide=java,objective-c&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
-[instagram]: https://instagram/usmanov_ru
+[instagram]: https://instagram.com/usmanov_ru
 [twitter]: https://twitter.com/rustam_usmanov_
 [linkedin]: https://linkedin.com/in/rustamusmanov
 [telegram]: https://www.t.me/nephore

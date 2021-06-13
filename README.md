@@ -37,7 +37,7 @@
 
 [![Rustam's github stats](https://github-readme-stats.avieira.vercel.app/api?username=usmanovrustam&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <br />
-[![Top Langs](https://github-readme-stats.avieira.vercel.app/api/top-langs/?username=usmanovrustam&hide=java,objective-c&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.avieira.vercel.app/api/top-langs/?username=usmanovrustam&objective-c&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 [instagram]: https://instagram.com/usmanov_ru

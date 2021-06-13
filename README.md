@@ -1,6 +1,5 @@
 ### Hello, I'm Rustam 🤓
 
-## I'm a very curious person who happens to write code for living!
 - 👨‍💻 I'm currently working as a mobile developer at [Calypso Intelligent Solution][calypso] and as a Freelancer at TT-solution
 - 🇺🇿 I'm  uzbek, 20 years old and studying at [Amity University in Tashkent][amity]
 

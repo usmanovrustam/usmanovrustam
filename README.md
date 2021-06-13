@@ -34,7 +34,10 @@
 
 <details>
   <summary>:zap: Github Stats</summary>
-
+  
+[![Rustam's GitHub stats](https://github-readme-stats.vercel.app/api?username=usmanovrustam)](https://github.com/anuraghazra/github-readme-stats)
+  
+<br />
 [![usmanovrustam's github stats](https://github-readme-stats.avieira.vercel.app/api?username=usmanovrustam&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 [![Top Langs](https://github-readme-stats.avieira.vercel.app/api/top-langs/?username=usmanovrustam&objective-c&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

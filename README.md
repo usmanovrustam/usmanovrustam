@@ -31,16 +31,17 @@
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
 ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=181717)
 
-<details>
-  <summary>:zap: Github Stats</summary>
-  
-![Rustam's GitHub stats](https://github-readme-stats.vercel.app/api?username=usmanovrustam&count_private=true&show_icons=true&theme=gotham&)
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=usmanovrustam&show_private=true&margin-w=28&margin-h=15&theme=onedark" />
+</p></a></p>
 
-<!-- <br />
-[![usmanovrustam's github stats](https://github-readme-stats.avieira.vercel.app/api?username=usmanovrustam&count_private=true&show_icons=true&)](https://github.com/anuraghazra/github-readme-stats)
-<br />
-[![Top Langs](https://github-readme-stats.avieira.vercel.app/api/top-langs/?username=usmanovrustam&objective-c&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-</details>
+
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=usmanovrustam&show_icons=true&include_all_commits=true&line_height=33&count_private=true&theme=merko" />
+  <img src="https://github-readme-ranking.vercel.app/api/rank?username=usmanovrustam&country_code=uzbekistan&show_private=true&theme=dark" />
+</p>
+
+
 
 [instagram]: https://instagram.com/usmanov_ru
 [twitter]: https://twitter.com/rustam_usmanov_

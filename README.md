@@ -38,6 +38,9 @@
 
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=usmanovrustam&show_icons=true&include_all_commits=true&line_height=33&count_private=true&theme=merko" />
+</p>
+  
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-ranking.vercel.app/api/rank?username=usmanovrustam&country_code=uzbekistan&show_private=true&theme=dark" />
 </p>
 

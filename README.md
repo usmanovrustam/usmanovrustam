@@ -31,16 +31,16 @@
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
 ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=181717)
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=usmanovrustam&show_private=true&margin-w=28&margin-h=15&theme=onedark" />
-</p></a></p>
+</p>
 
 
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=usmanovrustam&show_icons=true&include_all_commits=true&line_height=33&count_private=true&theme=merko" />
 </p>
   
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+<p align="center">
   <img src="https://github-readme-ranking.vercel.app/api/rank?username=usmanovrustam&country_code=uzbekistan&show_private=true&theme=dark" />
 </p>
 

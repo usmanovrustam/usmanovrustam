@@ -49,7 +49,7 @@
 [instagram]: https://instagram.com/usmanov_ru
 [twitter]: https://twitter.com/rustam_usmanov_
 [linkedin]: https://linkedin.com/in/rustamusmanov
-[telegram]: https://www.t.me/nephore
+[telegram]: https://www.t.me/usmanovrustam
 [calypso]: https://calypso.uz
 [amity]:https://amity.uz
 

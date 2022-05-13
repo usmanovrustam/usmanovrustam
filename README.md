@@ -1,6 +1,6 @@
 ### Hello, I'm Rustam
 
-- 👨‍💻 I'm currently working as a mobile developer at [Calypso Intelligent Solution(OSCE)][calypso]
+- 👨‍💻 I'm a Mobile Software Engineer at [Calypso Intelligent Solution(OSCE)][calypso]
 - 🇺🇿 I'm from Uzbekistan, 21 years old and studying at [Amity University in Tashkent][amity]
 
 ### My networks:

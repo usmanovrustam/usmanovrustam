@@ -1,9 +1,12 @@
-### Hello, I'm Rustam
+### <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50">, I'm Rustam Usmanov</h1>
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=usmanovrustam" alt="usmanovrustam" /> </p>
 
 - 👨‍💻 I'm a Mobile Software Engineer at [Calypso Intelligent Solution(OSCE)][calypso]
 - 🇺🇿 I'm from Uzbekistan, 21 years old and studying at [Amity University in Tashkent][amity]
 
-### My networks:
+### <h1> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"> </h1>
 
 [<img align="left" alt="usmanov_ru | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/768px-Instagram_icon.png" />][instagram]
 [<img align="left" alt="rustam_usmanov_ | Twitter" width="22px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-2-1.png" />][twitter]
@@ -12,7 +15,7 @@
 
 <br />
 
-### Languages and Tools:
+### <h1> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> </h1>
 
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=999999)
 ![](https://img.shields.io/badge/OS-Widows-informational?style=flat&logo=windows&logoColor=white&color=blue)
@@ -31,19 +34,23 @@
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
 ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=181717)
 
+<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="40"> </h2>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usmanovrustam&theme=dark" alt="usmanovrustam" /></p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=usmanovrustam&show_icons=true&include_all_commits=true&line_height=20&count_private=true&theme=merko" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=usmanovrustam&show_icons=true&locale=en&layout=compact&theme=dark" alt="usmanovrustam" />
+</p>
+
+<br />
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=usmanovrustam&show_private=true&margin-w=28&margin-h=15&theme=onedark" />
 </p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usmanovrustam&show_icons=true&include_all_commits=true&line_height=33&count_private=true&theme=merko" />
-</p>
-  
-<!-- <p align="center">
-  <img src="https://github-readme-ranking.vercel.app/api/rank?username=usmanovrustam&country_code=uzbekistan&show_private=true&theme=dark" />
-</p> -->
-
 
 
 [instagram]: https://instagram.com/usmanov_ru

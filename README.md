@@ -3,8 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=usmanovrustam" alt="usmanovrustam" /> </p>
 
-- 👨‍💻 I'm a Mobile Software Engineer at [Calypso Intelligent Solution(OSCE)][calypso]
-- 🇺🇿 I'm from Uzbekistan, 21 years old and studying at [Amity University in Tashkent][amity]
+<!-- - 👨‍💻 I'm a Mobile Software Engineer at [Calypso Intelligent Solution(OSCE)][calypso] -->
+<!-- - 🇺🇿 I'm from Uzbekistan, 21 years old and studying at [Amity University in Tashkent][amity] -->
 
 ### <h1> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"> </h1>
 

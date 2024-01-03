@@ -6,7 +6,7 @@
 <!-- - 👨‍💻 I'm a Mobile Software Engineer at [Calypso Intelligent Solution(OSCE)][calypso] -->
 <!-- - 🇺🇿 I'm from Uzbekistan, 21 years old and studying at [Amity University in Tashkent][amity] -->
 
-### <h1> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"> </h1>
+### <h1> Connect with me:
 
 [<img align="left" alt="usmanov_ru | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/768px-Instagram_icon.png" />][instagram]
 [<img align="left" alt="rustam_usmanov_ | Twitter" width="22px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-2-1.png" />][twitter]
